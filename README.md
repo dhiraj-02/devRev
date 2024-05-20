@@ -27,9 +27,8 @@ const getUserInfo = () => {
         });
     })
 }
-
-
-### create new work item
+```
+### Create new work item
 ```javascript
 const createWorkItem = () => {
     return new Promise((resolve, reject) => {
